@@ -4,6 +4,10 @@
 	- tmux new -s <session_name>
 
 
+##### List all tmux sessions
+	- tmux ls
+
+
 ##### Rename window
 	- <prefix> + ,
 
