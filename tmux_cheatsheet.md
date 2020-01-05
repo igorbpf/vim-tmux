@@ -48,6 +48,10 @@
 	- <prefix> + x
 
 
+##### Scroll inside pane
+	- <prefix> + [ (to exit scroll mode press q)
+
+
 ##### Resize panes
 	- <prefix> + :resize-pane -U (-D or -L or -R) <number_of_cells>
 
