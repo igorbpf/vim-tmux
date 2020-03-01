@@ -8,6 +8,10 @@
 	- tmux ls
 
 
+##### Help
+	- <prefix> + ?
+
+
 ##### Rename window
 	- <prefix> + ,
 
@@ -16,8 +20,16 @@
 	- <prefix> + c
 
 
-##### Switch window
+##### Switch window (previous)
 	- <prefix> + p
+
+
+##### Switch window (next)
+	- <prefix> + n
+
+
+##### Choose window
+	- <prefix> + [0-9] 
 
 
 ##### Detach session
